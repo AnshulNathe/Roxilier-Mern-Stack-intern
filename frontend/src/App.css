@@ -1,0 +1,16 @@
+body {
+    background-color: #fcf9f9;  
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    width: auto;
+}
+
+.chart-wrapper{ 
+    width: 80vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9.50vw;     
+}
